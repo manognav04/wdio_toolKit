@@ -1,6 +1,6 @@
 ## WebdriverIO
 
-This is a demo projec for angular application to acheive e2e automation tests using webdriverIO, we will be using Mocha which is a feature-rich javascript test framework running on Node.js and in the browser, making asynchronus testing simple. Besides, in this test automation we will be using Chai which is a BDD assertion library. 
+This is a demo project for angular application to acheive e2e automation tests using webdriverIO, we will be using Mocha which is a feature-rich javascript test framework running on Node.js and in the browser, making asynchronus testing simple. Besides, in this test automation we will be using Chai which is a BDD assertion library. 
 
 ## Pre-requisites: 
 1. Node.js 
@@ -13,7 +13,7 @@ This is a demo projec for angular application to acheive e2e automation tests us
 2. run `npm i` to get the node_modules
 3. And, run `npx wdio` to execute the automated tests
 
-## Page Object Patterm
+## Page Object Pattern:
 
 Also known as POM (Page object Model), to make tests look more understandable and reduces the dupliction of code. It also helps us to reduce the refactoring of elements locators. 
 
