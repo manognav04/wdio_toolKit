@@ -26,6 +26,6 @@ It helps developers to make the code more error free using it's liniting utiliti
 
 ## Links for further reading:
 
-https://webdriver.io/docs/gettingstarted.html
-https://github.com/klamping/wdio-starter-kit
+https://webdriver.io/docs/gettingstarted.html <br/>
+https://github.com/klamping/wdio-starter-kit <br/>
 https://eslint.org/
