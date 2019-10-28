@@ -1,0 +1,39 @@
+{
+  "name": "wdio_toolkit",
+  "version": "1.0.0",
+  "description": "e2e automation for an angular app using webdriverIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manognav04/wdio_toolKit.git"
+  },
+  "keywords": [
+    "wdio",
+    "mocha",
+    "chai"
+  ],
+  "author": "vmano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manognav04/wdio_toolKit/issues"
+  },
+  "homepage": "https://github.com/manognav04/wdio_toolKit#readme",
+  "dependencies": {
+    "@wdio/cli": "^5.15.4",
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^5.15.4",
+    "@wdio/mocha-framework": "^5.15.1",
+    "@wdio/spec-reporter": "^5.15.2",
+    "@wdio/sync": "^5.15.1",
+    "chromedriver": "^78.0.1",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "wdio-chromedriver-service": "^5.0.2"
+  }
+}
