@@ -1,4 +1,4 @@
-## WebdriverIO
+## WebdriverIO-Mocha-Chai
 
 This is a demo project for angular application to acheive e2e automation tests using webdriverIO, we will be using Mocha which is a feature-rich javascript test framework running on Node.js and in the browser, making asynchronus testing simple. Besides, in this test automation we will be using Chai which is a BDD assertion library. 
 
